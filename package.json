@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/lanakonst/frontend-project-11/issues"
   },
-  "homepage": "https://github.com/lanakonst/frontend-project-11#readme"
+  "homepage": "https://github.com/lanakonst/frontend-project-11#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
