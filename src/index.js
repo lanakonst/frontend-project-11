@@ -1,7 +1,7 @@
 // @ts-check
 //import './style.css';
 //import './styles.scss';
-import 'bootstrap';
+import * as bootstrap from 'bootstrap';
 
 console.log('HI');
 console.log('HEEEY');
