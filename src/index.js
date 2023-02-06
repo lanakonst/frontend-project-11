@@ -1,5 +1,5 @@
 // @ts-check
-import './style.css';
+//import './style.css';
 import './styles.scss';
 import 'bootstrap';
 
