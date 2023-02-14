@@ -3,7 +3,7 @@
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import path from 'path';
 
-module.exports = {
+export default {
   mode: process.env.NODE_ENV || 'development',
   entry: './src/index.js',
   output: {
