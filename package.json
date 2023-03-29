@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "webpack": "webpack",
+    "build": "webpack -d",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
