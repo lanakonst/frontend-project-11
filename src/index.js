@@ -1,6 +1,6 @@
 // @ts-check
 
 import './styles.scss';
-// import 'bootstrap';
+import 'bootstrap';
 
 console.log('HI');
